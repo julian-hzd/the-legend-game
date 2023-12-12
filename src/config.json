@@ -1,0 +1,76 @@
+{
+	"images": [
+		{
+			"name": "ground",
+			"path": "./assets/images/map/tiles.png",
+			"width": 448,
+			"height": 512
+		},
+		{
+			"name": "adventurer",
+			"path": "./assets/images/player/adventurer.png",
+			"width": 400,
+			"height": 444
+		},
+		{
+			"name": "skeletonIdle",
+			"path": "./assets/images/Skeleton/skeletonIdle.png",
+			"width": 264,
+			"height": 32
+		},
+		{
+			"name": "skeletonWalk",
+			"path": "./assets/images/Skeleton/skeletonWalk.png",
+			"width": 286,
+			"height": 33
+		},
+		{
+			"name": "skeletonAttack",
+			"path": "./assets/images/Skeleton/skeletonAttack.png",
+			"width": 774,
+			"height": 37
+		},
+		{
+			"name": "backgroundNight",
+			"path": "./assets/images/map/background_3.png",
+			"width": 640,
+			"height": 368
+		},
+		{
+			"name": "titleBg",
+			"path": "./assets/images/title.jpg",
+			"width": 3530	,
+			"height": 2356
+		}
+	],
+	"fonts": [
+		{
+			"name": "Dungeon",
+			"path": "./assets/fonts/Dungeon.ttf"
+		},
+		{
+			"name": "Monogram",
+			"path": "./assets/fonts/monogram.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "intro",
+			"path": "./assets/sounds/tururu.wav",
+			"size": 4,
+			"volume": 0.1
+		},
+		{
+			"name": "human_dmg",
+			"path": "./assets/sounds/entities/human_dmg2.wav",
+			"size": 4,
+			"volume": 0.1
+		},
+		{
+			"name": "human_attack",
+			"path": "./assets/sounds/entities/human_attack.wav",
+			"size": 4,
+			"volume": 0.1
+		}
+	]
+}

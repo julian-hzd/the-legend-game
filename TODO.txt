@@ -1,0 +1,8 @@
+* Detect collision with platforms and falls if there are none
+
+* When Player collides with a platform's lateral sides, they are able to climb
+	* So their position is "freezed"
+	* this is a state and should also change of animation
+
+
+* Fix the hitbox of solid platforms and player because now it looks like player is walking on air
